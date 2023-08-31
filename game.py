@@ -1,3 +1,5 @@
+# FIRST GAME IN PYTHON !!!!!
+
 import pygame 
 
 pygame.init()
