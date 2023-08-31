@@ -1,4 +1,4 @@
-# FIRST GAME IN PYTHON !!!!!
+# FIRST GAME IN PYTHON !!!
 
 import pygame 
 
